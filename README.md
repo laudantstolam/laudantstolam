@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi it's Ash here
 
-<!--
-**laudantstolam/laudantstolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some project in my repository
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Website
+- [REACT | clicking game](https://birshudeyy2023.github.io/what-does-Shu-say/)
+  - a clicking game with some cute effects
+- [FLASJ+SPOTIFY API | Spotify DUAL music analyze site](https://github.com/laudantstolam/data_analyze_dual)
+  - can analyze 2 person's listening habit and generate suggest playlist
+- [REACT | Personal Protfolio site](https://github.com/laudantstolam/portfolio)
+  - my personal portfolio
+- [DJANGO | MemberDash](https://github.com/laudantstolam/member_dash)
+  - calender base full stack website
+## Colab project
+- [Tensorflow|Fontdetect and Recommend system](https://github.com/laudantstolam/font_detect)
+  - deep learning project that can detect english fonts
+- [Pygame| focusing pomodoro music player](https://github.com/Lyz-0723/Subtitle)
+  - just a normal focusing project which support Pomodoro/Music Playing/Todo List
