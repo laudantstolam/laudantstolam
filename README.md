@@ -16,3 +16,6 @@
   - deep learning project that can detect english fonts
 - [Pygame| focusing pomodoro music player](https://github.com/Lyz-0723/Subtitle)
   - just a normal focusing project which support Pomodoro/Music Playing/Todo List
+
+## Skills(TBD)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
