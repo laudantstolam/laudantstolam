@@ -18,5 +18,5 @@
   - just a normal focusing project which support Pomodoro/Music Playing/Todo List
 
 ## Skills(TBD)
-[![My Skills](https://skillicons.dev/icons?i=p5,d3,treejs,figma,ps,ai,id&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=p5js,d3,threejs,figma,ps,ai,id&theme=light)](https://skillicons.dev)
 
