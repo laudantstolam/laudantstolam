@@ -2,7 +2,9 @@
 
 ## Some project in my repository
 
-### Website
+### Projects
+- [Lou1saPro | auto wifi connect tool](https://github.com/laudantstolam/lou1sa_autoconnect)
+  - automatically change wifi passwords for chained coffee brands
 - [REACT | clicking game](https://birshudeyy2023.github.io/what-does-Shu-say/)
   - a clicking game with some cute effects
 - [FLASJ+SPOTIFY API | Spotify DUAL music analyze site](https://github.com/laudantstolam/data_analyze_dual)
