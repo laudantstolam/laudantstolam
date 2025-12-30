@@ -3,6 +3,12 @@ Visit my blogs at -> [https://laudantstolam.github.io/blogs/](https://laudantsto
 
 ## Some project in my repository
 
+### Tools
+- [Obsidian Translate Plugin](https://github.com/laudantstolam/obsidian-smart-translate)
+- [Bash Tools](https://github.com/laudantstolam/lil_tool_for_rev)
+   - auto unzip any format with `nose` command
+   - auto create tree structure from ascii text with `plant` command  
+
 ### Projects
 - [ReCall | interactive visual novel](https://x.com/ReCall2025ShuBD/status/1918153743302050275)
   - A fan-made project of a visual novel, featuring multiple paths of storyline, character illustrations, UI design, and an achievement system.
