@@ -3,6 +3,7 @@ Visit my blogs at -> [https://laudantstolam.github.io/blogs/](https://laudantsto
 ## Some project in my repository
 
 ### Tools
+- [Weekly Github Newsletter](https://github.com/laudantstolam/stargazer_newsletter)
 - [Obsidian Translate Plugin](https://github.com/laudantstolam/obsidian-smart-translate)
 - [Bash Tools](https://github.com/laudantstolam/lil_tool_for_rev)
    - auto unzip any format with `nose` command
