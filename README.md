@@ -5,6 +5,7 @@ Visit my blogs at -> [https://laudantstolam.github.io/blogs/](https://laudantsto
 ### Tools
 - [Weekly Github Newsletter](https://github.com/laudantstolam/stargazer_newsletter)
 - [Obsidian Translate Plugin](https://github.com/laudantstolam/obsidian-smart-translate)
+- [Vocab Clipper for Obsidian Notes](https://github.com/laudantstolam/Vocabsidian)
 - [Bash Tools](https://github.com/laudantstolam/lil_tool_for_rev)
    - auto unzip any format with `nose` command
    - auto create tree structure from ascii text with `plant` command  
@@ -18,6 +19,7 @@ Visit my blogs at -> [https://laudantstolam.github.io/blogs/](https://laudantsto
   - Analyzing the arrow's position and generating results
 - [FLASK+SPOTIFY API | Spotify DUAL music analyze site](https://github.com/laudantstolam/data_analyze_dual)
   - Gathering personal listening habits with multiple users and creating customize playlists
+
 ## Colab project
 - [Tensorflow|Fontdetect and Recommend system](https://github.com/laudantstolam/font_detect)
   - deep learning project that can detect english fonts
